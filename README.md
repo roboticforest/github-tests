@@ -24,6 +24,8 @@ In some extended versions of Markdown you can explicitly create your own anchor 
 
 `# A Heading` will create the anchor tag `#a-heading`. However, `# Heading 2.0 - A Complex One` will remove the period in `2.0` while preserving the hyphen `-` appearing mid title, generating the anchor tag `#heading-20---a-complex-one`.
 
+The following three lines demonstrate how to make GitHub anchor links, with enough filler text in the following paragraphs to clearly show the links work when you click on them.
+
 [First Heading](#a-heading)  
 [Second Heading](#another-heading)  
 [Third Heading](#heading-20---a-complex-one)
